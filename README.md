@@ -1,6 +1,6 @@
 ## Lift - A Ghost Theme
 
-Lift is designed and developed by [FuelDev](https://fueldev.io).
+Lift is designed and developed by [Portweb](https://portweb.dev).
 
 Lift is a minimal portfolio theme for Ghost.
 
